@@ -3,7 +3,7 @@
 
 **实例**：
 
-![Dome演示](http://www.ctomorrow.top/Tips/demo/index.html)
+[Dome演示](http://www.ctomorrow.top/Tips/demo/index.html)
 
 ## 依赖
 基于jQuery，使用需首先在项目里添加jQuery

@@ -1,0 +1,44 @@
+title: Tomorrow
+SEOTitle: 小冲的博客 | Tomorrow Blog
+header-img: img/bg/bg_index.jpg
+email: 15036889002@163.com
+description: Tomorrow is Blog
+keyword: ''
+baseurl: ''
+juejin_username: 5be013ff6fb9a04a0a5ea2f9
+csdn_username: c__dreamer
+github_username: hubvue
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude:
+  - less
+  - node_modules
+  - Gruntfile.js
+  - package.json
+  - README.md
+  - README.zh.md
+anchorjs: true
+plugins:
+  - jekyll-paginate
+markdown: kramdown
+kramdown:
+  input: GFM
+bd_share: true
+sidebar: true
+sidebar-about-description: 一位不知名的小前端
+sidebar-avatar: 'https://avatars1.githubusercontent.com/u/33478391?s=460&v=4'
+featured-tags: true
+featured-condition-size: 1
+friends: []
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-admin
+# jekyll_admin:
+#   hidden_links:
+#     - posts
+#     - pages
+#     - staticfiles
+#     - datafiles
+#     - configuration

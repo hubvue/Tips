@@ -42,3 +42,4 @@ gems:
 #     - staticfiles
 #     - datafiles
 #     - configuration
+# destination: /usr/local/nginx/html
